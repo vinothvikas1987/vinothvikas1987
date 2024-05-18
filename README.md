@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinothvikas1987
+- 👋 Hi, I’m Vinoth Vikas
 - 💪 I’m interested in all Mahcine Learning/Deep Learning projects especially with real world applications.
 - 🤝 "I’m looking to collaborate on full stack development projects, where I can leverage my skills in data munging, model development, and containerization for inference. My experience includes working with diverse        datasets, developing robust machine learning models, and deploying scalable inference solutions."
 - 📫 You can reach out to me @ vinoth.vikas1987@gmail.com
