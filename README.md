@@ -1,10 +1,21 @@
-- 👋 Hi, I’m Vinoth Vikas
-- 💪 I’m interested in all Mahcine Learning/Deep Learning projects especially with real world applications.
-- 🤝 "I’m looking to collaborate on full stack development projects, where I can leverage my skills in data munging, model development, and containerization for inference. My experience includes working with diverse        datasets, developing robust machine learning models, and deploying scalable inference solutions."
-- 📫 You can reach out to me @ vinoth.vikas1987@gmail.com
+# Hi, I'm Vinoth Vikas 👋
 
+I am an engineer focused on building intelligent real-world systems at the intersection of **AI, embedded systems, robotics, and full-stack development**.
 
-<!---
-vinothvikas1987/vinothvikas1987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My work spans the complete product pipeline — from **data engineering and machine learning model development** to **backend architecture, deployment, and edge-device integration**. I enjoy solving practical problems by transforming ideas into scalable, production-ready solutions.
+
+### Areas I work in
+
+* Machine Learning & Deep Learning
+* Computer Vision & AI Applications
+* Embedded Systems & IoT
+* Full Stack Development
+* Cloud Deployment & Containerization
+
+I’m especially interested in projects where software interacts with the physical world — autonomous systems, smart devices, intelligent automation, and AI-powered products.
+
+I’m always open to collaborating on impactful engineering projects.
+
+🌐 Website: [VV Systems](https://vv-systems.pages.dev)
+
+📫 Reach me: **[vinoth.vikas1987@gmail.com](mailto:vinoth.vikas1987@gmail.com)**
